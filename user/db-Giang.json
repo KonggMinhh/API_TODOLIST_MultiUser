@@ -1,0 +1,14 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Giang task 1",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Learn Express",
+            "completed": true
+        }
+    ]
+}
